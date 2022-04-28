@@ -1,0 +1,2 @@
+# GoSoul
+Simple Go Game.
